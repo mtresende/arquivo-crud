@@ -10,7 +10,6 @@ Durante o desenvolvimento deste projeto, tive a oportunidade de:
 - Implementar e manipular classes com atributos e métodos;
 - Trabalhar com arquivos de texto para leitura e escrita de dados;
 - Criar um menu de interação simples via terminal;
-- Aplicar o conceito de DAO (Data Access Object) para separar regras de negócio da lógica de persistência;
 - Entender melhor o tratamento de exceções e fluxo de entrada/saída em Java.
 
 ## Conceitos Trabalhados
